@@ -1,6 +1,9 @@
 
 ## Lain image detection using Inception V3 and LBP Cascade
 
+TODO:
+- Adapt this project to classify Lain's mood.
+
 Brief overview of the history behind this projcet
 ------------
 Here we are, again. Another shot at creating a "Lain vs All" classifier that works on universally any type of image. My [last attempt at that](https://github.com/d9x33/lain-vs-hotdog) was a complete failure. At the beginning, my plan was to just put a bunch of random, messy Lain images that I didn't filter against a bunch of random images hoping it'd work. Unsurprisingly, it didn't. So I scrapped the project and turned it into a binary classifier of Lain vs Hot-dogs - better than nothing, I suppose.
